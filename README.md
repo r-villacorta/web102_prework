@@ -25,22 +25,25 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="assets/walkthrough.gif" title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  https://cloudconvert.com/mov-to-gif
+GIF created with [LICEcap] (https://www.cockos.com/licecap/)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Building Sea Monster Crowdfunding's website was a fun task! 
+Some challenges I ran into:
+- Making the side border appear correctly with the nautical icons.
+- Implementing the search bar and filtering buttons using JavaScript
+- Designing the CSS to make the site visually appealing while keeping everything responsive.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Rachel Villacorta
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
